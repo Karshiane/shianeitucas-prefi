@@ -19,10 +19,8 @@
             </ul>
         </nav>
     </header>
-
-    <main>
-       
-        <section id="description">
+<main>
+          <section id="description">
             <div class="container">
                 <div class="product-intro">
                     <h2>Description</h2>
@@ -30,13 +28,11 @@
                     <p class="tagline">Immersive Audio. Competitive Edge.</p>
                 </div>
                 <div class="product-image">
-                    <img src="c:\Users\user\OneDrive\Desktop\ren\logitech_981_000882_g733_lightspeed_wireless_rgb_1590052.jpg" alt="SoundStrike Pro Gaming Headphones">
+                    <img src="c:\Users\user\OneDrive\Desktop\ren\logitech_981_000882_g733_lightspeed_wireless_rgb_1590052.jpg"alt="SoundStrike Pro Gaming Headphones">
                 </div>
             </div>
         </section>
-
-        
-        <section class="product-description">
+    <section class="product-description">
             <div class="container">
                 <h2>Experience Next-Level Gaming</h2>
                 <div class="features">
@@ -61,9 +57,7 @@
                 </p>
             </div>
         </section>
-
-       
-        <section id="price">
+    <section id="price">
             <div class="container">
                 <div class="price-card">
                     <h2>Price</h2>
@@ -76,8 +70,7 @@
             </div>
         </section>
 
-        
-        <section id="reviews">
+ <section id="reviews">
             <div class="container">
                 <h2>Reviews</h2>
                 <h2>Customer Reviews</h2>
@@ -92,7 +85,7 @@
                     <span class="rating-text">4.5/5 (128 reviews)</span>
                 </div>
                 
-                <div class="review-list">
+   <div class="review-list">
                     <div class="review">
                         <div class="reviewer">
                             <h4>Alex M.</h4>
@@ -106,8 +99,7 @@
                         </div>
                         <p>"These headphones completely changed my gaming experience. The sound quality is amazing and I can hear footsteps from across the map!"</p>
                     </div>
-                    
-                    <div class="review">
+                        <div class="review">
                         <div class="reviewer">
                             <h4>Sarah K.</h4>
                             <div class="review-stars">
@@ -123,8 +115,7 @@
                 </div>
             </div>
         </section>
- 
-        <section id="FAQs">
+    <section id="FAQs">
             <div class="container">
                 <h2>Frequently Asked Questions</h2>
                 <div class="faq-item">
@@ -142,26 +133,26 @@
             </div>
         </section>
 
-        <section id="contact">
+ <section id="contact">
             <div class="container">
                 <h2>Contact:09*********</h2>
                 <h2>CONTACT US</h2>
 
-            <form>
+  <form>
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name" required>
 
-                <label for="email">Email:</label>
+  <label for="email">Email:</label>
                 <input type="email" id="email" name="email" required>
                 
-                <label for="message">Message:</label>
+ <label for="message">Message:</label>
                 <textarea id="message" name="message" required></textarea>
                 
-                <button type="submit">Submit</button>
+   <button type="submit">Submit</button>
             </form>
         </section>
 
-                <div class="contact-info">
+  <div class="contact-info">
                     <div class="contact-item">
                         <i class="fas fa-envelope"></i>
                         <p>support@soundstrike.com</p>
@@ -179,7 +170,7 @@
         </section>
     </main>
     
-            </div>
+  </div>
         </div>
     </footer>
 </body>
